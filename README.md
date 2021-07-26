@@ -39,8 +39,10 @@
 
 ---
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohel-sheikh-dev&show_icons=true&locale=en&layout=compact" alt="sohel-sheikh-dev" /></p>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohel-sheikh-dev&show_icons=true&locale=en" alt="sohel-sheikh-dev" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sohel-sheikh-dev&show_icons=true&locale=en" alt="sohel-sheikh-dev" /></p>
 
 
 [website]: https://linktr.ee/sohelsheikh.dev
