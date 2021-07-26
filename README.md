@@ -4,7 +4,7 @@
 
 ## I'm a Developer,Student and Co-Founder!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute to Hacktober Fest
