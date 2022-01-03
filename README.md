@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute to Hacktober Fest
+- 🥅 2022 Goals: Contribute to Hacktober Fest
 - ⚡ Fun fact: I love to watch web-series
 
 <br />
@@ -40,9 +40,14 @@
 ---
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohel-sheikh-dev&show_icons=true&locale=en&layout=compact" alt="sohel-sheikh-dev" /></p>
-  
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sohel-sheikh-dev&show_icons=true&locale=en" alt="sohel-sheikh-dev" /></p>
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=sohel-sheikh-dev&show_icons=true&theme=radical">
+
+
+<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel-sheikh-dev&show_icons=true&theme=radical" >
+
+
+<img height ="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sohel-sheikh-dev&theme=radical" alt="yash3497" > 
+
 
 
 [website]: https://linktr.ee/sohelsheikh.dev
