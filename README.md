@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sohel Sheikh][website] 👋
 
-## I'm a Developer,Student and Co-Founder!!
+## I'm a Developer and an active learner!!
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developers
