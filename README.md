@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute to Hacktober Fest
 - ⚡ Fun fact: I love to watch web-series
 
 <br />
