@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developers
-- ⚡ Fun fact: I love to watch web-series
+- ⚡ Fun fact: I am into Anime
 
 <br />
 
